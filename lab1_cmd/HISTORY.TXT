@@ -1,0 +1,50 @@
+               существующего конечного файла.
+  /Z           Копирует сетевые файлы с возобновлением.
+  /B           Копирует символьную ссылку вместо ее целевого объекта.
+  /J           Копирует с использованием ввода-вывода без буферизации. Рекомендуется для очень больших файлов.
+  /COMPRESS    Запрос на сетевое сжатие во время передачи файла, если
+               применимо.
+Параметр /Y можно установить заранее через переменную среды COPYCMD.
+Параметр /-Y командной строки переопределяет такую установку.
+type xcopy.txt
+copy/?>copy1.txt
+type copy1.txt
+dir/?>dir1.txt
+type dir1.txt
+xcopy/?>xcopy1.txt
+type xcopy1.txt
+copy/?>>help.txt
+xcopy/?>>help.txt
+dir/?>>help.txt
+type help.txt
+C:
+%Windows%
+C:*.jpg
+*.jpg
+cd Windows
+*.jpg
+DIR C:\Windows\*.jpg
+DIR C:\Windows\*.bat
+DIR C:\Windows\*.bat /s
+DIR C:\Windows\*.bmp /s
+DIR C:\Windows\*.bmp /s>bmp.txt
+DIR Z:\Windows\*.bmp /s
+Z:
+DIR C:\Windows\*.bmp /s
+sort DIR C:\Windows\*.bat /s>bmp.txt
+type bmp.txt
+DIR C:\Windows\*.bmp /s
+DIR C:\Windows\*.bmp /o
+DIR C:\Windows\*.bmp /s /o
+DIR C:\Windows\*.bmp /s /o[[:s]
+DIR C:\Windows\*.bmp /s /o[[:]s]
+DIR C:\Windows\*.bmp /s
+DIR C:\Windows\*.bmp /s /o[[:]s]
+DIR C:\Windows\*.bmp /s /o[[:]S]
+DIR C:\Windows\*.bmp /s /o:S
+DIR C:\Windows\*.bmp /s /o:S>bbmp.txt
+/
+type bbmp.txt
+xcopy z:\*.png "Z:\1--шид--2(ОССТ_ЗВЕРЕВ)\Портнова Анастасия"
+doskey/history
+doskey/history>history.txt

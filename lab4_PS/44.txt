@@ -1,0 +1,1 @@
+Get-Process| Where Id -gt 100|Select-Object Name, Id, PriorityClass, UserProcessorTime, TotalProcessorTime|Sort-Object TotalProcessorTime|ConvertTo-Html -Property Name, Id, PriorityClass, UserProcessorTime, TotalProcessorTime|tee "F:\60.html"

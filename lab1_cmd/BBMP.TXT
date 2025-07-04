@@ -1,0 +1,108 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 3E3E-9AA8
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3324.1.7\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.2673_none_b74537de8ce32dea\f
+
+20.07.2023  03:21                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3324.1.7\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.2673_none_b74537de8ce32dea\r
+
+20.07.2023  03:21                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3324.1.7\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.1826_none_7807bea883f939e1\f
+
+20.07.2023  02:43                51 wmpnss_color32.bmp
+20.07.2023  02:43                52 wmpnss_color48.bmp
+               2 файлов            103 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3324.1.7\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.1826_none_7807bea883f939e1\r
+
+20.07.2023  02:43                51 wmpnss_color32.bmp
+20.07.2023  02:43                52 wmpnss_color48.bmp
+               2 файлов            103 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3324.1.7\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.2673_none_c199e230c143efe5\f
+
+20.07.2023  03:21                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3324.1.7\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.2673_none_c199e230c143efe5\r
+
+20.07.2023  03:21                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4598.1.22\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_b740f4448ce71298\f
+
+21.06.2024  06:53                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4598.1.22\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.3636_none_781e629683e815a4\f
+
+21.06.2024  06:53                51 wmpnss_color32.bmp
+21.06.2024  06:53                52 wmpnss_color48.bmp
+               2 файлов            103 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4598.1.22\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_c1959e96c147d493\f
+
+21.06.2024  06:53                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4780.1.15\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_b740f4448ce71298\f
+
+25.07.2024  20:36                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4780.1.15\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.3636_none_781e629683e815a4\f
+
+26.07.2024  15:54                51 wmpnss_color32.bmp
+26.07.2024  15:54                52 wmpnss_color48.bmp
+               2 файлов            103 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.4780.1.15\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_c1959e96c147d493\f
+
+25.07.2024  20:36                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-usertiles-client_31bf3856ad364e35_10.0.19041.1_none_df86f0e7b84bf07b
+
+07.12.2019  18:48           602 168 user.bmp
+07.12.2019  18:48           602 168 guest.bmp
+               2 файлов      1 204 336 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.2673_none_b74537de8ce32dea
+
+07.12.2019  12:09             2 702 verisign.bmp
+               1 файлов          2 702 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_b740f4448ce71298
+
+07.12.2019  12:09             2 702 verisign.bmp
+               1 файлов          2 702 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.1826_none_7807bea883f939e1
+
+15.10.2019  16:49             4 152 wmpnss_color32.bmp
+15.10.2019  16:49             9 272 wmpnss_color48.bmp
+               2 файлов         13 424 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.3636_none_781e629683e815a4
+
+15.10.2019  16:49             4 152 wmpnss_color32.bmp
+15.10.2019  16:49             9 272 wmpnss_color48.bmp
+               2 файлов         13 424 байт
+
+ Содержимое папки C:\Windows\WinSxS\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.2673_none_c199e230c143efe5
+
+07.12.2019  12:10             2 702 verisign.bmp
+               1 файлов          2 702 байт
+
+ Содержимое папки C:\Windows\WinSxS\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_c1959e96c147d493
+
+07.12.2019  12:10             2 702 verisign.bmp
+               1 файлов          2 702 байт
+
+     Всего файлов:
+              26 файлов      1 242 804 байт
+               0 папок  51 446 571 008 байт свободно
