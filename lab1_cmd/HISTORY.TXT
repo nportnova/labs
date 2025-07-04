@@ -48,3 +48,5 @@ type bbmp.txt
 xcopy z:\*.png "Z:\1--è¨¤--2(Ž‘‘’_‡‚……‚)\®àâ­®¢  €­ áâ á¨ï"
 doskey/history
 doskey/history>history.txt
+
+
